@@ -14,3 +14,12 @@
 
 ![Security Scanner](https://raw.github.com/pichuang/quay-demo/master/imgs/security_scanner.png)
 
+## Mirror container images between different registry repos
+
+```
+docker pull nginx
+docker images | grep nginx
+docker tag docker.io/library/nginx quay.io/pihuang/nginx
+docker push quay.io/pihuang/nginx
+```
+
