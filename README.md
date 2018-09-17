@@ -10,7 +10,7 @@
 ![Quay Build Output](https://raw.github.com/pichuang/quay-demo/master/imgs/build_output.png)
 
 ## Security Scanner
-- [The Example of High Risk Repo](https://quay.io/repository/dsslimshaddy/virus-total?tab=info)
+- [The Example of High Risk Repo](https://quay.io/repository/pihuang/nginx/manifest/sha256:fca43c168779027f73561778bc28447b3f3e43af9572e3dc907e859f6b58be40?tab=vulnerabilities)
 
 ![Security Scanner](https://raw.github.com/pichuang/quay-demo/master/imgs/security_scanner.png)
 
