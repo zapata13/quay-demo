@@ -1,6 +1,6 @@
 # Quay.io Demo
 
-[![Docker Repository on Quay](https://quay.io/repository/pihuang/quay-demo-build-trggier/status "Docker Repository on Quay")](https://quay.io/repository/pihuang/quay-demo-build-trggier)
+[![Docker Repository on Quay](https://quay.io/repository/pihuang/quay-demo-build-trggier/status "Docker Repository on Quay")](https://quay.io/repository/pihuang/quay-demo-build-trigger)
 
 - Quay.io: [pihuang/quay-demo-build-trigger](https://quay.io/repository/pihuang/quay-demo-build-trigger)
 - GitHub: [pichuang/quay-demo](https://github.com/pichuang/quay-demo)
