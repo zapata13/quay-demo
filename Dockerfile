@@ -5,3 +5,4 @@ RUN echo "2018/09/17" > /tmp/tmpfile
 RUN echo "2018/09/27" > /tmp/tmpfile
 RUN echo "2018/10/15" > /tmp/tmpfile
 RUN echo "2018/11/8" > /tmp/tmpfile
+RUN echo "2019/04/2" > /tmp/tmpfile
