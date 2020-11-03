@@ -7,12 +7,12 @@
 
 ## Build Output
 
-![Quay Build Output](https://raw.github.com/pichuang/quay-demo/master/imgs/build_output.png)
+![Quay Build Output](https://raw.github.com/pichuang/quay-demo/master/imgs/version_2_9/quay_build_output.png)
 
 ## Security Scanner
-- [The Example of High Risk Repo](https://quay.io/repository/pihuang/nginx/manifest/sha256:fca43c168779027f73561778bc28447b3f3e43af9572e3dc907e859f6b58be40?tab=vulnerabilities)
+- [The Example of High Risk Repo](https://quay.io/repository/pihuang/quay-demo-build-trigger/manifest/sha256:92c28a01e0d733daec798379e704ac9d19dca1dfc710d322d5c057773959aa3d?tab=vulnerabilities)
 
-![Security Scanner](https://raw.github.com/pichuang/quay-demo/master/imgs/security_scanner.png)
+![Security Scanner](https://raw.github.com/pichuang/quay-demo/master/imgs/version_2_9/quay_security_scanner.png)
 
 ## Mirror container images between different registry repos
 
